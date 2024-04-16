@@ -13,7 +13,7 @@ title: Gallery for Learn Enough JavaScript to Be Dangerous
     </div>
     <div>
       <img src="/images/small/boat.jpg" alt="Moorea catamaran"
-           data-large-version="/images/large/boat.jpg" 
+           data-large-version="/images/large/boat.jpg"
            data-title="Catamaran"
            data-description="A catamaran on Moorea lagoon, French Polynesia.">
     </div>
